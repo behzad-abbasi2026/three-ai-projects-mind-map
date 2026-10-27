@@ -10,6 +10,13 @@ This repository presents a visual mind map summarizing three AI projects.
 - **Disaster Impact Classification:** Comparison of Logistic Regression and an Artificial Neural Network (ANN).
 - **Urban Object Detection:** Object detection using a pretrained YOLO model.
 
+## Mind Map Preview
+
+![Three AI Projects Mind Map](three-ai-projects-mind-map.png)
+
+
+
+
 ## Files
 
 - PDF
