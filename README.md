@@ -25,9 +25,9 @@ This repository presents a visual mind map summarizing three AI projects.
 
 ## Files
 
+- Video
 - PDF
 - Image
-- Video
 - Mind Map Source File
 
 ## Design Tool
