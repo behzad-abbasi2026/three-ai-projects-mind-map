@@ -20,6 +20,8 @@ This repository presents a visual mind map summarizing three AI projects.
 
 ## Project Overview Video
 
+*Click the thumbnail to watch the project overview on YouTube.*
+
 [![Watch the video: Overview of Three AI Projects for Urban Planning](https://img.youtube.com/vi/5FCJZVJJKqM/hqdefault.jpg)](https://youtu.be/5FCJZVJJKqM)
 
 *Click the thumbnail to watch the project overview on YouTube.*
