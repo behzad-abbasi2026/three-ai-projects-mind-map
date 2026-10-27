@@ -14,9 +14,18 @@ This repository presents a visual mind map summarizing three AI projects.
 
 ![Overview of Three Projects](./Overview%20of%20Three%20%20Projects.png)
 
+
+
 ## Video Presentation
 
-[▶ Watch the Mind Map Video](./Overview_Three_Projects.mp4)
+<video controls width="720">
+  <source src="./Overview_Three_Projects.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+
+
+
 
 ## Files
 
