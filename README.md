@@ -12,10 +12,6 @@ This repository presents a visual mind map summarizing three AI projects.
 
 ## Mind Map Preview
 
-![Overview of Three Projects](./Overview%20of%20Three%20Projects.png)
-
-## Mind Map Preview
-
 ![Overview of Three Projects](./Overview%20of%20Three%20%20Projects.png)
 
 ## Files
