@@ -16,11 +16,13 @@ This repository presents a visual mind map summarizing three AI projects.
 
 
 
+
 ## 🎬 Project Walkthrough
 
 Watch the overview of my three AI projects:
 
-[▶️ Watch the video](https://github.com/behzad-abbasi2026/three-ai-projects-mind-map/raw/refs/heads/main/Overview_Three_Projects.mp4)
+[▶️ Watch the video](https://github.com/behzad-abbasi2026/three-ai-projects-mind-map/raw/refs/heads/main/Overview%20Three%20Projects.mp4)
+
 
 
 
